@@ -1,5 +1,5 @@
 
-<h1 align="center">## Hi there 👋, I'm Steel Ricciotti</h1>
+<h1 align="center">Hi there 👋, I'm Steel Ricciotti</h1>
 
 
 
@@ -9,12 +9,12 @@
 -->
 
 
-- 🔭 I’m currently working on an Enterprise Implementation of SAP S4 and a Bachelor of Computer Science Degree. 
+- 🔭 I’m currently working on an Enterprise Implementation of SAP S4 at Enbridge Gas and a Bachelor of Computer Science Degree at the University of WIndsor. 
 - 🌱 Currently learning Rust, React Native
 - 💬 Ask me about: Python, AWS, PostgreSQL
 ### 📫 How to reach me
 
-<p>
+<p>Email me at steel.ricciotti@gmail.com or contact me on Linkedin at 
   <a href="https://www.linkedin.com/in/steel-ricciotti-99aa8865/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
   </a>
