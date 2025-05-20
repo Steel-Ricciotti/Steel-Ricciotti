@@ -25,8 +25,7 @@
 ### 🧰 Languages and Tools
 
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Rust_programming_language_white_logo.svg" alt="Rust" width="40" height="40" title="Rust"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" title="C#"/>
