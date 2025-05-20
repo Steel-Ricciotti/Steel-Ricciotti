@@ -12,7 +12,14 @@
 - 🔭 I’m currently working on an Enterprise Implementation of SAP S4 and a Bachelor of Computer Science Degree. 
 - 🌱 Currently learning Rust, React Native
 - 💬 Ask me about: Python, AWS, PostgreSQL
-- 📫 How to reach me: steel.ricciotti@gmail.com or https://www.linkedin.com/in/steel-ricciotti-99aa8865/
+### 📫 How to reach me
+
+<p>
+  <a href="https://www.linkedin.com/in/steel-ricciotti-99aa8865/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
+  </a>
+</p>
+
 
 
 ### 🧰 Languages and Tools
