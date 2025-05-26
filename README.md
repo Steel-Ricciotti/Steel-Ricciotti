@@ -3,7 +3,7 @@
 
 
 
-<p align="center">Software Engineer • Full Stack Developer • Tech Enthusiast</p>
+<p align="center">Software Engineer • Data Scientist • Tech Enthusiast</p>
 <!--
 **Steel-Ricciotti/Steel-Ricciotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
