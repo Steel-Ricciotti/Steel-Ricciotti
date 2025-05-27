@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on an Enterprise Implementation of SAP S4 at Enbridge Gas and a Bachelor of Computer Science Degree at the University of WIndsor. 
 - 🌱 Currently learning Rust, React Native
-- 💬 Ask me about: Python, AWS, PostgreSQL
+- 💬 Ask me about: Python, Azure, Databricks
 ### 📫 How to reach me
 
 <p>Email me at steel.ricciotti@gmail.com or contact me on Linkedin at 
