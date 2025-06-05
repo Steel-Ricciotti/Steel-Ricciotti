@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working on an Enterprise Implementation of SAP S4 at Enbridge Gas and a Bachelor of Computer Science Degree at the University of WIndsor. 
-- 🌱 Currently learning Kafka, Airflow
+- 🌱 Currently learning Kafka, React
 - 💬 Ask me about: Python, Azure, Databricks, SQL Server
 ### 📫 How to reach me
 
