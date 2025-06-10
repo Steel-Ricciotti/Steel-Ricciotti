@@ -10,8 +10,8 @@
 
 
 - 🔭 I’m currently working on an Enterprise Implementation of SAP S4 at Enbridge Gas and a Bachelor of Computer Science Degree at the University of WIndsor. 
-- 🌱 Currently learning Kafka
-- 💬 Ask me about: Python, Azure, Databricks, React, SQL Server
+- 🌱 Currently learning Airsim 
+- 💬 Ask me about: Python, Azure, React, SQL Server
 ### 📫 How to reach me
 
 <p>Email me at steel.ricciotti@gmail.com or contact me on Linkedin at 
