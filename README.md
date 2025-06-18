@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working on an Enterprise Implementation of SAP S4 at Enbridge Gas and a Bachelor of Computer Science Degree at the University of Windsor. 
-- 🌱 Currently learning React
+- 🌱 Currently learning Airsim
 - 💬 Ask me about: Python, SAP, Data Integrations, Azure, SQL Server
 ### 📫 How to reach me
 
